@@ -1,5 +1,6 @@
 .banner{
-    background-image: url("C:\Users\Akash\Downloads\pexels-chanwalrus-958545.jpg");
+    background-image: url('/public/images/pexels-chanwalrus-958545.jpg');
+
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
